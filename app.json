@@ -2,7 +2,7 @@
   "expo": {
     "name": "creditOnly_App",
     "slug": "creditOnly_App",
-    "version": "1.0.0",
+    "version": "1.1.2",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
@@ -30,7 +30,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.kh.creditOnly_App",
-      "versionCode": 1
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
